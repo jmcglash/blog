@@ -1,4 +1,0 @@
-baseURL = 'https://jmcglash.github.io/blog/'
-languageCode = 'en-us'
-title = '''Jim's Blog'''
-theme = "archie"

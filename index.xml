@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Terminal Blog</title>
+    <link>https://jmcglash.github.io/blog/</link>
+    <description>Recent content on My Terminal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2026 10:30:00 +0000</lastBuildDate>
+    <atom:link href="https://jmcglash.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2 – Ideas and Plan</title>
+      <link>https://jmcglash.github.io/blog/journal/day-2-ideas-and-plan/</link>
+      <pubDate>Wed, 04 Mar 2026 10:30:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/journal/day-2-ideas-and-plan/</guid>
+      <description>&lt;p&gt;Today I outlined how I want to use this blog:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Journal&lt;/strong&gt; for short daily notes about learning and progress&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt; for longer write-ups of software and hardware experiments&lt;/li&gt;&#xA;&lt;li&gt;An &lt;strong&gt;About&lt;/strong&gt; page that explains who I am and what I’m working on&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Next steps: publish the site somewhere and automate deployments from my Git repo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terminal-Style Hugo Blog Setup</title>
+      <link>https://jmcglash.github.io/blog/projects/terminal-blog-setup/</link>
+      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/projects/terminal-blog-setup/</guid>
+      <description>&lt;p&gt;This project documents how I created a terminal-style blog using Hugo and the Terminal theme.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hugo (extended)&lt;/li&gt;&#xA;&lt;li&gt;Terminal theme by panr&lt;/li&gt;&#xA;&lt;li&gt;Linux development environment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Milestones:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Install Hugo and verify the extended build.&lt;/li&gt;&#xA;&lt;li&gt;Initialize a new site (&lt;code&gt;hugo new site myblog&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Add the Terminal theme under &lt;code&gt;themes/terminal&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Configure &lt;code&gt;hugo.toml&lt;/code&gt; with the theme and menu.&lt;/li&gt;&#xA;&lt;li&gt;Create &lt;code&gt;journal&lt;/code&gt; and &lt;code&gt;projects&lt;/code&gt; sections with sample content.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Day 1 – Getting Started</title>
+      <link>https://jmcglash.github.io/blog/journal/day-1-getting-started/</link>
+      <pubDate>Tue, 03 Mar 2026 09:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/journal/day-1-getting-started/</guid>
+      <description>&lt;p&gt;Today I set up my new Hugo site using the Terminal theme on my Linux machine.&lt;/p&gt;&#xA;&lt;p&gt;The main goals were:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo (extended)&lt;/li&gt;&#xA;&lt;li&gt;Create a new blog project&lt;/li&gt;&#xA;&lt;li&gt;Wire up the Terminal theme&lt;/li&gt;&#xA;&lt;li&gt;Prepare sections for journal entries and project updates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Everything is running locally, and I can already see the retro terminal styling on the homepage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jmcglash.github.io/blog/about/</link>
+      <pubDate>Sun, 01 Mar 2026 20:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/about/</guid>
+      <description>&lt;div class=&#34;center&#34;&gt;&#xA;  &lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;center&#34;&gt;&#xA;  Eagle Dad  / Girl Dad / First Responder / Hacker Nerd / Aspiring Polymath&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Open Source, Linux, Terminal, Bash, Tmux, and NeoVim, are the way. My homelab is my safe space.&lt;/p&gt;&#xA;&lt;p&gt;This is my attempt at a blog to share what I learn with anyone who may be interested.&lt;/p&gt;&#xA;&lt;p&gt;If you’re nerd and have questions, ideas, or just want to connect, contact me on LinkedIn!&lt;/p&gt;&#xA;&lt;p&gt;I enjoy using technology to solve complex problems. I explore and discover new tips tools and techniques. I record the struggled and successes of my efforts in notes or wiki pages. Building on previous efforts and sharing with others is very rewarding.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

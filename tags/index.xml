@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Terminal Blog</title>
+    <link>https://jmcglash.github.io/blog/tags/</link>
+    <description>Recent content in Tags on My Terminal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2026 10:30:00 +0000</lastBuildDate>
+    <atom:link href="https://jmcglash.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal</title>
+      <link>https://jmcglash.github.io/blog/tags/journal/</link>
+      <pubDate>Wed, 04 Mar 2026 10:30:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/tags/journal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>https://jmcglash.github.io/blog/tags/planning/</link>
+      <pubDate>Wed, 04 Mar 2026 10:30:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/tags/planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://jmcglash.github.io/blog/tags/hugo/</link>
+      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>https://jmcglash.github.io/blog/tags/project/</link>
+      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/tags/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme</title>
+      <link>https://jmcglash.github.io/blog/tags/theme/</link>
+      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/tags/theme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Setup</title>
+      <link>https://jmcglash.github.io/blog/tags/setup/</link>
+      <pubDate>Tue, 03 Mar 2026 09:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/tags/setup/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

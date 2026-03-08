@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on My Terminal Blog</title>
+    <link>https://jmcglash.github.io/blog/tags/theme/</link>
+    <description>Recent content in Theme on My Terminal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2026 14:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jmcglash.github.io/blog/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terminal-Style Hugo Blog Setup</title>
+      <link>https://jmcglash.github.io/blog/projects/terminal-blog-setup/</link>
+      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/projects/terminal-blog-setup/</guid>
+      <description>&lt;p&gt;This project documents how I created a terminal-style blog using Hugo and the Terminal theme.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hugo (extended)&lt;/li&gt;&#xA;&lt;li&gt;Terminal theme by panr&lt;/li&gt;&#xA;&lt;li&gt;Linux development environment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Milestones:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Install Hugo and verify the extended build.&lt;/li&gt;&#xA;&lt;li&gt;Initialize a new site (&lt;code&gt;hugo new site myblog&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Add the Terminal theme under &lt;code&gt;themes/terminal&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Configure &lt;code&gt;hugo.toml&lt;/code&gt; with the theme and menu.&lt;/li&gt;&#xA;&lt;li&gt;Create &lt;code&gt;journal&lt;/code&gt; and &lt;code&gt;projects&lt;/code&gt; sections with sample content.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

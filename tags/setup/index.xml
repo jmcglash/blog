@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on My Terminal Blog</title>
+    <link>https://jmcglash.github.io/blog/tags/setup/</link>
+    <description>Recent content in Setup on My Terminal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jmcglash.github.io/blog/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1 – Getting Started</title>
+      <link>https://jmcglash.github.io/blog/journal/day-1-getting-started/</link>
+      <pubDate>Tue, 03 Mar 2026 09:00:00 +0000</pubDate>
+      <guid>https://jmcglash.github.io/blog/journal/day-1-getting-started/</guid>
+      <description>&lt;p&gt;Today I set up my new Hugo site using the Terminal theme on my Linux machine.&lt;/p&gt;&#xA;&lt;p&gt;The main goals were:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo (extended)&lt;/li&gt;&#xA;&lt;li&gt;Create a new blog project&lt;/li&gt;&#xA;&lt;li&gt;Wire up the Terminal theme&lt;/li&gt;&#xA;&lt;li&gt;Prepare sections for journal entries and project updates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Everything is running locally, and I can already see the retro terminal styling on the homepage.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

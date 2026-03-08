@@ -1,0 +1,46 @@
+:root {
+  /* Core palette for the terminal feel */
+  --background: #020403;    /* almost black */
+  --foreground: #c5f7c5;    /* soft green text */
+  --accent: #00ff66;        /* bright green for links, highlights */
+  --border: #003a1f;        /* subtle greenish borders */
+}
+
+/* Page background and base text */
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Links and post titles */
+a,
+.post-title a {
+  color: var(--accent);
+}
+
+/* Hover state for links */
+a:hover,
+.post-title a:hover {
+  text-decoration: underline;
+}
+
+/* Cards, navbar, and other framed blocks */
+.post,
+.post-card,
+.terminal-navbar {
+  border-color: var(--border);
+  background-color: rgba(0, 0, 0, 0.3); /* faint panel shading */
+}
+
+/* Code blocks: slightly different dark with neon green text */
+pre,
+code {
+  background-color: #040806;
+  color: #7CFF7C;
+}
+
+/* Optional: slight glow effect on headings */
+h1, h2, h3, h4, h5 {
+  text-shadow: 0 0 4px rgba(0, 255, 102, 0.6);
+}
+
